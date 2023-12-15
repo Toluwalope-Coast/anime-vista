@@ -1,7 +1,7 @@
 ````markdown
 # AnimeVista 🌟
 
-AnimeVista is a sleek and modern web application that brings your favorite anime to the forefront. Dive into the world of animated wonders with a seamless viewing experience powered by Next.js, TypeScript, ESLint, and Tailwind CSS.
+AnimeVista is a sleek and modern web application that brings your favorite anime to the forefront. Dive into the world of animated wonders with a seamless viewing experience powered by Next.js, TypeScript, ESLint, Shadcn, and Tailwind CSS.
 
 ## Features 🚀
 
